@@ -1,0 +1,14 @@
+# Python virtual environments
+backend/venv/
+
+# Node.js dependencies
+frontend/node_modules/
+
+# Build files
+frontend/build/
+
+# Environment files
+.env
+*.pyc
+__pycache__/
+.DS_Store
